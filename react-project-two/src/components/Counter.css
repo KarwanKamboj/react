@@ -1,0 +1,21 @@
+.counter-container{
+    background-color: rgb(180, 214, 190);
+    padding: 20px;
+    justify-content:center;
+    align-items: center;
+    margin: 1rem;
+}
+.para{
+    font-size:1.5rem;
+    font-weight: 500;
+    color:blue;
+    margin : 15px;
+}
+.btn{
+    margin: 15px;
+    height : 40px;
+    width: 100px;
+    background-color: #ed7615;
+    border-style: solid;
+    border-radius: 25px;
+}
