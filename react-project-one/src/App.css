@@ -1,4 +1,7 @@
-p{
-  font-size: 5rem;
-  width : 100%;
+.container{
+  display: flex;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  flex-wrap : wrap;
+  gap : 20px;
+  
 }
